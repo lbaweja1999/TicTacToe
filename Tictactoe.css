@@ -1,0 +1,30 @@
+html, body {
+    height:100%;
+}
+html {
+    display:table; width:100%;
+}
+body {
+    display:table-cell; text-align:center; vertical-align:middle;
+}
+table,tr,td{
+    border: 2px solid black;
+}
+body{
+    height: 150%;
+    width: 150%;
+    background-color: chartreuse;
+    display:table-cell; text-align:center; vertical-align:middle;
+
+}
+button{
+    width: 100px;
+    height: 100px;
+    background-color: floralwhite;
+    font-size: 40px;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    font-size: 50px;
+}
